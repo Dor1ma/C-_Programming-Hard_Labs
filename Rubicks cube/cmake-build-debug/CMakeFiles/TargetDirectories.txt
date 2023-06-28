@@ -1,0 +1,3 @@
+F:/Proga_C++/Rubicks cube/cmake-build-debug/CMakeFiles/Rubicks_cube.dir
+F:/Proga_C++/Rubicks cube/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Proga_C++/Rubicks cube/cmake-build-debug/CMakeFiles/rebuild_cache.dir
